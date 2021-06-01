@@ -16,7 +16,7 @@ cls
 color 5
 echo =============================================================================
 echo.
-echo                    Welcome, this hub was created by Kaue
+echo                    Welcome, this hub was created by Ana
 echo.
 echo =============================================================================
 echo.
